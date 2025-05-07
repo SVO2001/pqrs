@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PQRSModelTest::testInsertarPQRS":8,"PQRSModelTest::testObtenerPQRSPorId":8,"PQRSModelTest::testActualizarEstadoPQRS":8},"times":{"PQRSModelTest::testInsertarPQRS":0.068,"PQRSModelTest::testObtenerPQRSPorId":0.02,"PQRSModelTest::testActualizarEstadoPQRS":0.005}}

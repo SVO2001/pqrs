@@ -1,0 +1,17 @@
+{
+    "name": "opera/pqrs_proyecto",
+    "autoload": {
+        "psr-4": {
+            "Opera\\PqrsProyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian",
+            "email": "sebastian.vallejo.ospina@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
