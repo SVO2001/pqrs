@@ -66,7 +66,7 @@ if ($radicado) {
                 <?php endif; ?>
 
                 <div class="mt-4">
-                    <p>¿No has radicado tu PQRS aún?</p>
+                    <p>¿No has radicado tu PQRS todavía?</p>
                     <a href="formulario_pqrs.php" class="btn btn-primary">Radicar una nueva PQRS</a>
                 </div>
             </div>
