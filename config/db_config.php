@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost'; 
+$host = 'mi-servidor-mysql.mysql.database.azure.com'; 
 $db = 'proyecto';   
-$user = 'root';      
-$pass = '';          
+$user = 'adminusuario';      
+$pass = 'Sebastian2001';          
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
